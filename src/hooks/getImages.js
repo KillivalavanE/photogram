@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { database } from "../firebase/firebase.config";
+import { database } from "../../firebase/firebase.config";
 import { ref, onValue, query, orderByChild } from "firebase/database";
 
 const getImages = (collection) => {
