@@ -28,5 +28,5 @@
 - **Functions:** `uploadBytes`, `getDownloadURL`, `deleteObject`.
 
 ## Screenshots
-![Untitled design (1)](https://github.com/user-attachments/assets/5fbd598d-856c-4d0c-98c2-2a939cddeabc)
+![Untitled design (1)](https://github.com/user-attachments/assets/fb63e634-03f2-417f-a794-36c830da89c2)
 
